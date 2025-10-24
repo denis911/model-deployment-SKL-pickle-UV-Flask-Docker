@@ -85,3 +85,4 @@ pipeline = train_model(df)
 save_model(pipeline, 'model.bin')
 
 print('Model saved to model.bin')
+
